@@ -1,0 +1,20 @@
+.contact-info {
+    padding-top: 2rem;
+    background-color: white;
+    text-align: center;
+}
+
+.contact-info .copyright-container {
+    background-color: black;
+    color: white;
+    height: 30px;
+    line-height: 20pt;
+}
+
+.contact-info .general-info {
+    font-style: oblique;
+}
+
+.contact-info .general-info .location-chs {
+    font-weight: bold;
+}

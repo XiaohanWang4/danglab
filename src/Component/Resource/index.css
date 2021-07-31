@@ -1,0 +1,17 @@
+.resource-container {
+    margin-top: 1%;
+    margin-left: 15%;
+}
+
+.resource-container .resource-title {
+    font-size: xx-large;
+}
+
+.resource-container .resource-items {
+    width: 80%;
+}
+
+
+.resource-container .resource-item-title {
+    font-size: x-large;
+}

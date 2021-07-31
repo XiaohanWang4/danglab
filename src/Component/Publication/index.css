@@ -1,0 +1,12 @@
+.publication-container {
+    margin-top: 1%;
+    margin-left: 15%;
+}
+
+.publication-container .publication-title {
+    font-size: xx-large;
+}
+
+.publication-container .publication-items {
+    width: 80%;
+}

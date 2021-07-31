@@ -1,0 +1,33 @@
+.home-container .img1 {
+    width: 100%;
+    height:100%;
+    background-size:100% 100%;
+   background-image: url("./WechatIMG23149.jpeg") ;
+}
+.img2 {
+    width: 100%;
+    height:100%;
+    background-size:100% 100%;
+    background-image: url("./WechatIMG23150.jpeg");
+}
+.img3 {
+    width: 100%;
+    height:100%;
+    background-size:100% 100%;
+    background-image: url("./WechatIMG23151.jpeg");
+}
+.img4 {
+    width: 100%;
+    height:100%;
+    background-size:100% 100%;
+    background-image: url("./WechatIMG23152.jpeg");
+}
+
+.home-container {
+    height: 72vh;
+    width: 100%;
+}
+
+.slogan-container {
+    text-align: center;
+}

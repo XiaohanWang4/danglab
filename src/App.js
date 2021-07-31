@@ -1,25 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
+import { Layout } from "antd";
+import { Route, BrowserRouter as Router } from "react-router-dom";
+import ContactInfo from "./Component/ContactInfo";
+import CustomHeader from "./Component/Header";
+import Home from "./Component/Home";
+import Publication from "./Component/Publication";
+import "./App.css";
+import JoinUs from "./Component/JoinUs";
+import Research from "./Component/Research";
+import Resource from "./Component/Resource";
+const { Header, Footer, Content} = Layout;
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <Router>
+        <Route exact path="/" component={Home}/>
+        <Route path="/research" component={Research}/>
+        <Route path="/team">Team</Route>
+        <Route path="/publication" component={Publication}/>
+        <Route path="/join" component={JoinUs}/>
+        <Route path="/resource" component={Resource}/>
+    </Router>
+  )
 }
-
 export default App;
