@@ -3,13 +3,15 @@ import ContactInfo from "../ContactInfo";
 import CustomHeader from "../Header";
 import "./index.css";
 const { Header, Content, Footer } = Layout;
-const Research = () => {
+const Team = () => {
     const listData = [{
-        title: "Research Name",
-        researcher: "Researchers",
-        content: "Content",
+        name: "Bobo Dang",
+        title: "Lab PI",
+        description: "Description",
         image: "https://gw.alipayobjects.com/zos/rmsportal/mqaQswcyDLcXyDKnZfES.png"
     },
+    
+
 ];
 
 
@@ -19,11 +21,11 @@ const Research = () => {
   <CustomHeader/>
 </Header>
 <Content >
-<div className="research-container">
-            <div className="research-title">
-                <p>Research</p>
+<div className="team-container">
+            <div className="team-title">
+                <p>Teams</p>
             </div>
-            <div className="research-items">
+            <div className="team-items">
                 <List 
                     itemLayout="vertical"
                     size="large"
@@ -31,11 +33,11 @@ const Research = () => {
                     
                     renderItem={item => (
                         <List.Item
-                            key={item.title}
+                            key={item.name}
                         >
                             <List.Item.Meta
-                                title={item.title}
-                                description={item.researcher}
+                                title={item.name}
+                                description={item.title}
                             />
                             <div className="list-data">
                                 <br/>
@@ -48,11 +50,11 @@ const Research = () => {
                                 </div>
                                 <div className="list-content">
                                     <p>
-                                    {item.content}
+                                    {item.description}
                                     </p>
                                 </div>
 
-                            </div>                            
+                            </div>      
                         </List.Item>
                     )}
                 />
@@ -66,5 +68,5 @@ const Research = () => {
     )
 }
 
-export default Research;
+export default Team;
 

@@ -5,9 +5,9 @@ import "./index.css";
 const { Header, Content, Footer } = Layout;
 const Publication = () => {
     const listData = [{
-        title: "Platform to discover protease-activated antibiotics and application to siderophore–antibiotic conjugates",
-        description: "J. Boyce,B. Dang*, B. Ary, Q. Edmondson, C. Craik, W. F. DeGrado*, I.Seiple*",
-        content: "Here we present a platform for discovery of protease-activated prodrugs and apply it to antibiotics that target Gram-negative bacteria. Because cleavable linkers for prodrugs had not been developed for bacterial proteases, we used substrate phage to discover substrates for proteases found in the bacterial periplasm. Rather than focusing on a single protease, we used a periplasmic extract ofE. colito find sequences with the greatest susceptibility to the endogenous mixture of periplasmic proteases. Using a fluorescence assay, candidate sequences were evaluated to identify substrates that release native amine-containing payloads. We next designed conjugates consisting of (1) an N-terminal siderophore to facilitate uptake, (2) a protease-cleavable linker, and (3) an amine-containing antibiotic. Using this strategy, we converted daptomycin—which by itself is active only against Gram-positive bacteria—into an antibiotic capable of targeting Gram-negativeAcinetobacterspecies. We similarly demonstrated siderophore-facilitated delivery of oxazolidinone and macrolide antibiotics into a number of Gram-negative species. These results illustrate this platform’s utility for development of protease-activated prodrugs, including Trojan horse antibiotics."
+        title: "Publication Title",
+        description: "Researchers",
+        content: "Content"
     },
     {
         title: "Engineered trimeric ACE2 binds viral spike protein and locks it in “Three-up” conformation to potently inhibit SARS-CoV-2 infection",
