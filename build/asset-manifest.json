@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52a1da5c.chunk.css",
+    "main.js": "/static/js/main.a0b64037.chunk.js",
+    "main.js.map": "/static/js/main.a0b64037.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.27befad6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.27befad6.js.map",
+    "static/js/2.2ba4c68f.chunk.js": "/static/js/2.2ba4c68f.chunk.js",
+    "static/js/2.2ba4c68f.chunk.js.map": "/static/js/2.2ba4c68f.chunk.js.map",
+    "static/js/3.087c6eb6.chunk.js": "/static/js/3.087c6eb6.chunk.js",
+    "static/js/3.087c6eb6.chunk.js.map": "/static/js/3.087c6eb6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.52a1da5c.chunk.css.map": "/static/css/main.52a1da5c.chunk.css.map",
+    "static/js/2.2ba4c68f.chunk.js.LICENSE.txt": "/static/js/2.2ba4c68f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/WechatIMG23150.8454af2e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27befad6.js",
+    "static/js/2.2ba4c68f.chunk.js",
+    "static/css/main.52a1da5c.chunk.css",
+    "static/js/main.a0b64037.chunk.js"
+  ]
+}

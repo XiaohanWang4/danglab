@@ -52,6 +52,7 @@ const Research = () => {
                                   src={item.image}
                                 />
                                 </div>
+                                <br/>
                                 <div className="list-content">
                                     <p>
                                     {item.content}
