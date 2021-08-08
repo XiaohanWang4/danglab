@@ -17,10 +17,10 @@ const JoinUs = () => {
             </div>
             <br/>
             <div className="email-container">
-                <h2>电子邮箱: dangbobo@westlake.edu.cn</h2>
+                <h2>Email: dangbobo@westlake.edu.cn</h2>
             </div>
             <div className="desc-container">
-            <h2>实验室长期招聘分子生物学，化学方向的副研究员、博士后、研究助理，每年也通过生命科学院统一招生招收博士生，真诚期待您的加入！</h2>
+            <h2>We have positions open for Postdocs, Ph.D. Students, research assistants with backgrounds in Molecular Biology, Organic Chemistry, Chemical Biology, Biochemistry, Structure Biology, Cell biology etc. We are an interdisciplinary research group, we welcome applicants from various other research backgrounds too. </h2>
             </div>
         </div>
         </Content>
