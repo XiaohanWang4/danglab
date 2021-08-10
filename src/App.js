@@ -14,7 +14,7 @@ const App = () => {
         <Route path="/team" component={Team}/>
         <Route path="/publication" component={Publication}/>
         <Route path="/join" component={JoinUs}/>
-        <Route path="/resource" component={Resource}/>
+        <Route path="/resources" component={Resource}/>
     </Router>
   )
 }

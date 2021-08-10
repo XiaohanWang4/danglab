@@ -9,7 +9,7 @@ const Menu = () => {
         <span onClick={() => window.location.href="/team"} className="url">Team</span>
         <span onClick={() => window.location.href="/publication"} className="url">Publication</span>
         <span onClick={() => window.location.href="/join"} className="url">Join us</span>
-        <span onClick={() => window.location.href="/resource"} className="url">Resource</span>
+        <span onClick={() => window.location.href="/resources"} className="url">Resources</span>
         </div>
     )
 }

@@ -13,7 +13,9 @@
 .header-container .logo{
     height: 60px;
     width: 220px;
-    background-image: url("./logo.jpeg");
+    background-image: url("./logo.jpg");
+    background-size: 100% 100%;
+
 }
 
 .header-container .header-menu-container {
