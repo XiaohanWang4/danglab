@@ -11,9 +11,9 @@
 }
 
 .header-container .logo{
-    height: 60px;
-    width: 220px;
-    background-image: url("./logo.jpg");
+    height: 70px;
+    width: 250px;
+    background-image: url("./logo.png");
     background-size: 100% 100%;
 
 }

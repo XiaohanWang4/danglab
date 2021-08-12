@@ -9,12 +9,12 @@ import Team from "./Component/Team";
 const App = () => {
   return (
     <Router>
-        <Route exact path="/" component={Home}/>
-        <Route path="/research" component={Research}/>
-        <Route path="/team" component={Team}/>
-        <Route path="/publication" component={Publication}/>
-        <Route path="/join" component={JoinUs}/>
-        <Route path="/resources" component={Resource}/>
+        <Route exact path="/"><Home/></Route>
+        <Route path="/research"><Research/></Route>
+        <Route path="/team"><Team/></Route>
+        <Route path="/publication"><Publication/></Route>
+        <Route path="/join"><JoinUs/></Route>
+        <Route path="/resources"><Resource/></Route>
     </Router>
   )
 }
