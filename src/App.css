@@ -1,1 +1,15 @@
 html,body{min-height:100%;_height:100%;}
+.ant-layout-header {
+    height: 148px;
+    padding: 0 50px;
+    color: #fff;
+    line-height: 64px;
+    background: #fff;
+}
+.ant-layout-footer{
+    padding: 0;
+}
+
+.ant-layout-header{
+    padding: 0 2%;
+}

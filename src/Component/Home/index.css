@@ -1,3 +1,4 @@
+
 .home-container {
     height: 72vh;
     width: 100%;
@@ -5,11 +6,34 @@
 
 .slogan-container {
     text-align: center;
+    padding:1rem;
 }
 
 .carousel-container {
     height: 75vh;
     width: 100vw;
-    background-image: url("WechatIMG23150.jpeg");
-    background-size: 100% 100%;
+    /* background-image: url("WechatIMG23150.jpeg");
+    background-size: 100% 100%; */
 }
+.carousel-item{
+    height: 70vh;
+    color: #fff;
+    line-height: 70vh;
+    text-align: center;
+    background:  center;
+    background-repeat: no-repeat;
+  }
+.carousel-item1{
+    background-image: url("1.jpeg");
+    background-size: 100% 100%;
+   
+}
+.carousel-item2{
+    background-image: url("2.jpg");
+    background-size: cover ;
+  }
+  .carousel-item3{
+
+    background-image: url("3.jpg");
+    background-size: cover;
+  }

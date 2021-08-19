@@ -1,4 +1,4 @@
-import { Layout } from "antd";
+import { Layout, Carousel } from "antd";
 import ContactInfo from "../ContactInfo";
 import CustomHeader from "../Header";
 import "./index.css";
@@ -14,12 +14,27 @@ const Home = () => {
                     <div className="slogan-container">
                         <h1>“Whatever you can do, or dream you can, begin it. Boldness has genius, power, and magic in it.” – W. H. Murray</h1>
                     </div>
-                    <div className="carousel-container"/>
+                    {/* <div className="carousel-container" /> */}
+                    <div>
+                    <Carousel autoplay>
+                        <div>
+                            <div className="carousel-item carousel-item1"></div>
+                        </div>
+                        <div>
+                            <div  className="carousel-item carousel-item2"></div>
+                        </div>
+                        <div>
+                            <div  className="carousel-item carousel-item3"></div>
+                        </div>
+                    </Carousel>
+                    </div>
                 </div>
             </Content>
-            <Footer style={{ width: "100%", position: "absolute", bottom: "0" }}>
+            <div style={{position:'relative'}}>
+            <Footer style={{ width: "100%",  }}>
                 <ContactInfo />
             </Footer>
+            </div>
         </Layout>
     )
 }

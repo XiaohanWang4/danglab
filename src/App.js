@@ -1,11 +1,12 @@
 import { Route, BrowserRouter as Router } from "react-router-dom";
 import Home from "./Component/Home";
 import Publication from "./Component/Publication";
-import "./App.css";
 import JoinUs from "./Component/JoinUs";
 import Research from "./Component/Research";
 import Resource from "./Component/Resource";
 import Team from "./Component/Team";
+import 'antd/dist/antd.css';
+import "./App.css";
 const App = () => {
   return (
     <Router>
