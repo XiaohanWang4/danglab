@@ -15,3 +15,6 @@
 .resource-container .resource-item-title {
     font-size: x-large;
 }
+.ant-list-item a {
+    word-break: break-word;
+}
