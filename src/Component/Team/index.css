@@ -10,25 +10,25 @@
 .team-container .team-items {
     width: 80%;
 }
-.list-data{
+.team-container  .list-data{
     display: flex;
     flex-wrap: wrap;
     align-items: center;
 }
 
-.list-content {
+.team-container  .list-content {
     width: calc(100% - 300px);
     /* display: inline-block; */
     padding-left:20px;
 }
 
-.list-img {
+.team-container  .list-img {
     width: 272px;
     /* display: inline-block; */
 }
 
 @media screen and (max-width: 768px) {
-    .list-content {
+    .team-container  .list-content {
         width: 100%;
         padding-left:0px;
     }
