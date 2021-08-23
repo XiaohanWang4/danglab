@@ -50,4 +50,11 @@
         width: 100%;
         padding-top: 0rem;
     }
+    .menu-container{
+        font-size: 11px;
+    }
+    .header-container .logo{
+        height: 50px;
+        width: 220px;
+    }
 }

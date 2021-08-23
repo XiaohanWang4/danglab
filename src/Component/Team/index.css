@@ -32,5 +32,8 @@
         width: 100%;
         padding-left:0px;
     }
+    .team-container {
+        margin-left: 5%;
+    }
 
 }

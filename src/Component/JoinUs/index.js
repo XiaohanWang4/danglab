@@ -24,7 +24,7 @@ const JoinUs = () => {
             </div>
         </div>
         </Content>
-        <Footer style={{ width: "100%", position: "absolute",bottom: "0"}}>
+        <Footer style={{ width: "100%",  }}>
           <ContactInfo/>
         </Footer>
       </Layout>
