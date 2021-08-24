@@ -108,9 +108,6 @@ const Team = () => {
 </Header>
 <Content >
 <div className="team-container">
-            <div className="team-title">
-                <p>Team</p>
-            </div>
             <div className="team-items">
                 <List 
                     itemLayout="vertical"

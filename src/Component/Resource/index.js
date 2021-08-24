@@ -6,30 +6,42 @@ const {Header, Content, Footer} = Layout;
 const Resource = () => {
     const data = [
             {
-            title: "ProtParam",
+            title: "Protein Properties",
             url:"https://web.expasy.org/protparam/",
             },
             {
-                title: "Translate",
-                url:"https://web.expasy.org/translate/",
+                title: "Compute_pi",
+                url:"https://web.expasy.org/compute_pi/",
             },
             {
-                title: "compute_pi",
-                url:"https://web.expasy.org/compute_pi/"
+                title: "Gene Translate",
+                url:"https://web.expasy.org/translate/"
             },
             {
-                title: "tm-calculator",
-                url:"https://www.thermofisher.com/hk/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/thermo-scientific-web-tools/tm-calculator.html",
+                title: "Make Tray",
+                url:"https://www.hamptonresearch.com/make-tray.php",
                 },
                 {
-                    title: "reverse-complement",
-                    url:"http://reverse-complement.com",
+                    title: "Primer tm-calculator",
+                    url:"https://www.thermofisher.com/hk/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/thermo-scientific-web-tools/tm-calculator.html",
 
                 },
                 {
-                    title:"codon-frequency-table",
+                    title:"Reverse-complement",
+                    url:"http://reverse-complement.com"
+                },
+                {
+                    title:"Codon-frequency-table",
                     url:"https://www.genscript.com/tools/codon-frequency-table"
-                }
+                },
+                {
+                    title:"Rare codon analysis",
+                    url:"https://www.genscript.com/tools/rare-codon-analysis"
+                },
+                {
+                    title:"E. coli Cell Culture Concentration",
+                    url:"https://www.agilent.com/store/biocalculators/calcODBacterial.jsp"
+                },
     ]
 
     return (
@@ -39,9 +51,6 @@ const Resource = () => {
 </Header>
 <Content >
 <div className="resource-container">
-            <div className="resource-title">
-                <h1>Tools</h1>
-            </div>
             <br/>
             <div className="resource-items">
                 <List 

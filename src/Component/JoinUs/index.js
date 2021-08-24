@@ -12,9 +12,6 @@ const JoinUs = () => {
         </Header>
         <Content >
         <div className="join-container">
-            <div className="title-container">
-                <h1>Join Us</h1>
-            </div>
             <br/>
             <div className="email-container">
                 <h2>Email: dangbobo@westlake.edu.cn</h2>
