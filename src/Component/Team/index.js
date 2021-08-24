@@ -5,13 +5,13 @@ import "./index.css";
 const { Header, Content, Footer } = Layout;
 const Team = () => {
     const listData = [{
-        title: "Principle Investigator",
+        title: "Principal Investigator",
         name: "Bobo Dang",
         description: "Dr. Dang received his B.S. in School of Chemistry and Chemical Engineering at Nanjing University. He then went to the University of Chicago and obtained his Ph.D. degree in Department of Chemistry focusing on studying protein ion channel ligands (venom toxins) through chemical protein synthesis. Dr. Dang did his post-doctoral researches at Department of Pharmaceutical Chemistry, UCSF using computational protein design and biological display technologies to develop novel protein structures and technologies. Dr. Dang has published many papers in high-profile journals including Nature Methods, J. Am. Chem. Soc., Angew. Chem. Int. Ed., Neuron, PNAS. Outside of scientific research, Dr. Dang likes rock climbing, snowboarding and hiking.",
         image: "https://dbblab-1306669979.cos.ap-hongkong.myqcloud.com/dang%20bobo.png"
     },
     {
-        title: "Reasearch Assistant Professor",
+        title: "Research Assistant Professor",
         name: "Tian Li",
         description: "Tian Li graduated with a PhD degree from the University of Tennessee/Oak Ridge National Laboratory in 2014. She finished her post-doc training as a membrane protein structural biologist in Eduado Perozo's lab in 2019 before she joined the Cryo-EM facility in the University of Chicago. She worked in a startup biotechnological company studied anti-cancer immunotherapy until she joined the Dang's laboratory in 2021 as a research assistant professor focusing on protein engineering and novel macromolecule drug development.",
         image: "https://dbblab-1306669979.cos.ap-hongkong.myqcloud.com/li%20tian.png"
