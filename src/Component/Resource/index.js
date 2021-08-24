@@ -6,48 +6,30 @@ const {Header, Content, Footer} = Layout;
 const Resource = () => {
     const data = [
             {
-            title: "Protein Properties",
+            title: "ProtParam",
             url:"https://web.expasy.org/protparam/",
-            },
-            {
-            title: "compute_pi",
-            url:"https://web.expasy.org/compute_pi/",
             },
             {
                 title: "Translate",
                 url:"https://web.expasy.org/translate/",
             },
             {
-                title: "Gene Translate",
-                url:"https://web.expasy.org/translate/"
+                title: "compute_pi",
+                url:"https://web.expasy.org/compute_pi/"
             },
             {
-                title: "Make Tray",
-                url:"https://www.hamptonresearch.com/make-tray.php",
+                title: "tm-calculator",
+                url:"https://www.thermofisher.com/hk/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/thermo-scientific-web-tools/tm-calculator.html",
                 },
                 {
-                    title: "Primer tm-calculator",
-                    url:"https://www.thermofisher.com/hk/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/thermo-scientific-web-tools/tm-calculator.html",
+                    title: "reverse-complement",
+                    url:"http://reverse-complement.com",
 
-                },
-                {
-                    title:"reverse-complement",
-                    url:"http://reverse-complement.com"
                 },
                 {
                     title:"codon-frequency-table",
                     url:"https://www.genscript.com/tools/codon-frequency-table"
-                },
-                {
-                    title:"Rare codon analysis",
-                    url:"https://www.genscript.com/tools/rare-codon-analysis"
-                },
-                {
-                    title:"E. coli Cell Culture Concentration",
-                    url:"https://www.agilent.com/store/biocalculators/calcODBacterial.jsp"
-                },
-
-
+                }
     ]
 
     return (

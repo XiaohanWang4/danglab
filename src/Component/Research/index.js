@@ -37,7 +37,7 @@ const Research = () => {
             </div>
             <div className="research-content">
             Fascinated by protein molecules, Dr. Dang has been focusing his researches on studying the structure, function and biological activities of protein molecules through chemical synthesis, computational design and biological display technologies. Chemical protein synthesis provides atomic control of protein structures and enables protein modifications in unprecedented ways. Computational protein design allows protein structure exploration beyond natural world. We walk at the frontier of protein synthesis and protein design to develop technologies and to advance protein therapeutics with the help of high throughput protein screening. 
-            </div><br></br>
+            </div>
             <div className="list-title">
             <h1>Specific research topics are listed below: </h1>
             </div>
