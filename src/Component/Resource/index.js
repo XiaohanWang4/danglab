@@ -42,6 +42,10 @@ const Resource = () => {
                     title:"E. coli Cell Culture Concentration",
                     url:"https://www.agilent.com/store/biocalculators/calcODBacterial.jsp"
                 },
+                {
+                    title:"Only for lab members",
+                    url:"https://westlakeu-my.sharepoint.com/personal/baoxingyue_westlake_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fbaoxingyue%5Fwestlake%5Fedu%5Fcn%2FDocuments%2FDangLab&ct=1629895838116&or=OWA%2DNT&cid=61af8d02%2D573d%2D7925%2D7e26%2D0ac2c9dec1d0&originalPath=aHR0cHM6Ly93ZXN0bGFrZXUtbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvYmFveGluZ3l1ZV93ZXN0bGFrZV9lZHVfY24vRXFYbWhkU3hJdVJBdDVNUmg1cVU3OEVCSWt0TVNfdlZEYWhRUUVyQ3ZkbEdaUT9ydGltZT1UbXZSNzhabjJVZw"
+                },
     ]
 
     return (
