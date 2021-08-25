@@ -55,7 +55,7 @@ const Team = () => {
     {
         title: "Ph.D. student",
         name: "Kai Zhao",
-        description: "Kai Zhao graduated from Jiangnan University in 2019 with a sugar engineering Master degree, he joined the Dang's laboratory in August 2019 and mainly focused on the research of high throughput peptide or protein screening through phage display technology.",
+        description: "Kai Zhao graduated from Jiangnan University in 2019 with a sugar engineering Master degree, he joined the Dang's laboratory in August 2019 as a Research Assistant and now he is doing his Ph.D. degree in biology and mainly focused on the research of high throughput peptide or protein screening through phage display technology.",
         image: "https://dbblab-1306669979.cos.ap-hongkong.myqcloud.com/zhao%20kai.png"
     },
     {
