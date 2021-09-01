@@ -24,7 +24,7 @@
     background-repeat: no-repeat;
   }
 .carousel-item1{
-    background-image: url("1.jpeg");
+    background-image: url("1.jpg");
     background-size: 100% 100%;
    
 }
@@ -35,5 +35,25 @@
   .carousel-item3{
 
     background-image: url("3.jpg");
+    background-size: cover;
+  }
+  .carousel-item4{
+
+    background-image: url("4.jpg");
+    background-size: cover;
+  }
+  .carousel-item5{
+
+    background-image: url("5.jpg");
+    background-size: cover;
+  }
+  .carousel-item6{
+
+    background-image: url("6.jpg");
+    background-size: cover;
+  }
+  .carousel-item7{
+
+    background-image: url("7.jpg");
     background-size: cover;
   }
