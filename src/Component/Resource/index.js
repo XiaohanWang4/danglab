@@ -32,7 +32,8 @@ const Resource = () => {
                 },
                 {
                     title:"Codon-frequency-table",
-                    url:"https://www.genscript.com/tools/codon-frequency-table"
+                    url:"https://www.genscript.com/tools/codon-frequency-table",
+                    url:"https://people.mbi.ucla.edu/sumchan/caltor.html"
                 },
                 {
                     title:"Rare codon analysis",
