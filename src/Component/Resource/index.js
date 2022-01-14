@@ -36,7 +36,8 @@ const Resource = () => {
                 },
                 {
                     title:"Rare codon analysis",
-                    url:"https://www.genscript.com/tools/rare-codon-analysis, https://people.mbi.ucla.edu/sumchan/caltor.html"
+                    url:"https://www.genscript.com/tools/rare-codon-analysis",
+                    url:"https://people.mbi.ucla.edu/sumchan/caltor.html"
                 },
                 {
                     title:"E. coli Cell Culture Concentration",
