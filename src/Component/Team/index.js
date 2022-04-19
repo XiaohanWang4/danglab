@@ -11,10 +11,16 @@ const Team = () => {
         image: "https://dbblab-1306669979.cos.ap-hongkong.myqcloud.com/dang%20bobo.png"
     },
     {
-        title: "Research Assistant Professor",
+        title: "Research Associate Professor",
         name: "Tian Li",
         description: "Tian Li graduated with a PhD degree from the University of Tennessee/Oak Ridge National Laboratory in 2014. She finished her post-doc training as a membrane protein structural biologist in Eduado Perozo's lab in 2019 before she joined the Cryo-EM facility in the University of Chicago. She worked in a startup biotechnological company studied anti-cancer immunotherapy until she joined the Dang's laboratory in 2021 as a research assistant professor focusing on protein engineering and novel macromolecule drug development.",
         image: "https://dbblab-1306669979.cos.ap-hongkong.myqcloud.com/li%20tian.png"
+    },
+    {
+        title: "Research Assistant Professor",
+        name: "Ge Yu",
+        description: "Ge Yu graduated with a Ph.D. degree focusing on structural biology from Florida State University in 2017 and went to Texas A&M University for postdoctoral training in chemical biology fields until she joined Dang Lab in 2021. Her research mainly focuses on novel protein drug development and new protein engineering strategies exploration.",
+        image: "D:\website\team\Ge Yu.jpg"
     },
     {
         title: "Postdoctor",
@@ -51,6 +57,12 @@ const Team = () => {
         name: "Yingjie Lei",
         description: "Yingjie Lei graduated from Lanzhou University in 2020 with a Ph.D. in Biochemistry and Molecular Biology. He joined the Dang's laboratory in July 2020 and commited to the development of protein macromolecular drugs using chemical coupling modification strategy.",
         image: "https://dbblab-1306669979.cos.ap-hongkong.myqcloud.com/lei%20yingjie.png"
+    },
+    {
+        title: "Ph.D. student",
+        name: "Jiahao Mei",
+        description: "Jiahao Mei graduated with a Master degree at China Pharmaceutical University in 2020.  At CPU, he worked in the laboratories of innate immunity to develop new small molecule inhibitors for autoimmunity diseases. Jiahao joined the Dang’s laboratory in 2021 as a doctoral student of Westlake University. The focus of his research is to develop novel macromolecule drug by protein engineering.",
+        image: "D:\website\team\Jiahao Mei.jpg"
     },
     {
         title: "Ph.D. student",

@@ -36,7 +36,9 @@ const Resource = () => {
                 },
                 {
                     title:"Rare codon analysis-1",
-                    url:"https://www.genscript.com/tools/rare-codon-analysis",
+                    url:"https://www.genscript.com/tools/rare-codon-analysis"
+                },
+                {
                     url:"https://people.mbi.ucla.edu/sumchan/caltor.html"
                 },
                 {
