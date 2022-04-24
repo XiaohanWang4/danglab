@@ -20,7 +20,7 @@ const Team = () => {
         title: "Research Assistant Professor",
         name: "Ge Yu",
         description: "Ge Yu graduated with a Ph.D. degree focusing on structural biology from Florida State University in 2017 and went to Texas A&M University for postdoctoral training in chemical biology fields until she joined Dang Lab in 2021. Her research mainly focuses on novel protein drug development and new protein engineering strategies exploration.",
-        image: "D:\website\team\Ge Yu.jpg"
+        image: "https://dbblab-1306669979.cos.ap-hongkong.myqcloud.com/%E4%BA%8E%E6%AD%8C.jpg"
     },
     {
         title: "Postdoctor",
