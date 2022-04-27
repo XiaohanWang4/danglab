@@ -7,7 +7,7 @@ const Publication = () => {
     const listData = [
     {
         title: "Enhanced trimeric ACE2 exhibits potent prophylactic and therapeutic efficacy against the SARS-CoV-2 Delta and Omicron variants in vivo. Cell Res (2022)",
-        description: "M.Li, Z. Ye, K. Tang, L. Guo, W. Bi, Y. Zhang, Y. Tang, G. Rong, M. Sawan, X. Yin, R. Sun, S. Yuan & B. Dang*",
+        description: "M.Li#, Z. Ye#, K. Tang#, L. Guo#, W. Bi, Y. Zhang, Y. Tang, G. Rong, M. Sawan, X. Yin, R. Sun, S. Yuan*, B. Dang*",
         content: "We and others have envisioned that an engineered ACE2 decoy protein would have the broadest neutralizing activity, which could overcome the viral mutational escape problem.7,8,9,10,11 We recently reported that the trimeric ACE2 protein (T-ACE2) could maximally enhance the binding affinity of spike protein to neutralize SARS-CoV-2.9 Herein, we further engineered T-ACE2 to improve its neutralizing activity to generate one of the strongest entry inhibitors and demonstrated that this enhanced T-ACE2 (eT-ACE2) protein possessed potent prophylactic and therapeutic efficacy against the Delta and Omicron variants in mouse and hamster animal models."
     },
     {
