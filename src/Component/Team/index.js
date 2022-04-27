@@ -62,7 +62,7 @@ const Team = () => {
         title: "Ph.D. student",
         name: "Jiahao Mei",
         description: "Jiahao Mei graduated with a Master degree at China Pharmaceutical University in 2020.  At CPU, he worked in the laboratories of innate immunity to develop new small molecule inhibitors for autoimmunity diseases. Jiahao joined the Dang’s laboratory in 2021 as a doctoral student of Westlake University. The focus of his research is to develop novel macromolecule drug by protein engineering.",
-        image: "https://dbblab-1306669979.cos.ap-hongkong.myqcloud.com/zhao%20kai.png"
+        image: "https://dbblab-1306669979.cos.ap-hongkong.myqcloud.com/%E6%A2%85%E5%AE%B6%E8%B1%AA.jpg"
     },
     {
         title: "Ph.D. student",
