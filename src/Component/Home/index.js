@@ -38,9 +38,7 @@ const Home = () => {
                         <div>
                             <div  className="carousel-item carousel-item7"></div>
                         </div>
-                        <div>
-                            <div  className="carousel-item carousel-item8"></div>
-                        </div>
+                      
                     </Carousel>
                     </div>
                 </div>
