@@ -24,36 +24,36 @@
     background-repeat: no-repeat;
   }
 .carousel-item1{
-    background-image: url("1.jpg");
+    background-image: url("../../images/1.jpg");
     background-size: 100% 100%;
    
 }
 .carousel-item2{
-    background-image: url("2.jpg");
+    background-image: url("../../images/2.jpg");
     background-size: cover ;
   }
   .carousel-item3{
 
-    background-image: url("3.jpg");
+    background-image: url("../../images/3.jpg");
     background-size: cover;
   }
   .carousel-item4{
 
-    background-image: url("4.jpg");
+    background-image: url("../../images/4.jpg");
     background-size: cover;
   }
   .carousel-item5{
 
-    background-image: url("5.jpg");
+    background-image: url("../../images/5.jpg");
     background-size: cover;
   }
   .carousel-item6{
 
-    background-image: url("6.jpg");
+    background-image: url("../../images/6.jpg");
     background-size: cover;
   }
   .carousel-item7{
 
-    background-image: url("7.jpg");
+    background-image: url("../../images/7.jpg");
     background-size: cover;
   }
