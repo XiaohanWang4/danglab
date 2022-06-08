@@ -6,7 +6,7 @@ const { Header, Content, Footer } = Layout;
 const Publication = () => {
     const listData = [
     {
-        title: "EnNovel Engineered SARS-CoV-2 HR1 Trimer Exhibits Improved Potency and Broad-spectrum Activity against SARS-CoV-2 and Its Variants. J Virol (2022, accepted)",
+        title: "Novel Engineered SARS-CoV-2 HR1 Trimer Exhibits Improved Potency and Broad-spectrum Activity against SARS-CoV-2 and Its Variants. J Virol (2022, accepted)",
         description: "W. Bi*, G. Chen, B. Dang*",
         content: "we have constructed a trimeric peptide HR1MFd by fusing the trimerization motif foldon to the C-terminus of the HR1 peptide. HR1MFd was highly effective in blocking transductions by SARS-CoV-2, SARS-CoV-2 variants, SARS-CoV and MERS-CoV pseudoviruses. In comparison with HR1M, HR1MFd adopts a much higher helical conformation, better thermostability, increased affinity to the viral HR2 domain and better inhibition of S protein-mediated cell-cell fusion. Overall, HR1MFd provides the information to develop effective HR1-derived peptides as fusion inhibitors against SARS-CoV-2 and its variants."
     },
