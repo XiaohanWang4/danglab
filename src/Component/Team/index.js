@@ -125,7 +125,7 @@ const Team = () => {
     },
     {
         name: "Kuan Lu",
-        description: "Postdoctor (Jul 2020 - Jul 2022); focused on the research of antibody-drug conjugate and total synthesis of protein."
+        description: "Postdoctor (Jul 2020 - Jul 2022);     focused on the research of antibody-drug conjugate and total synthesis of protein."
     },
 
     
