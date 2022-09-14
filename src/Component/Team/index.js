@@ -42,6 +42,12 @@ const Team = () => {
         image: img3
     },
     {
+        title: "Research Assistant Professor",
+        name: "Yingjie Lei",
+        description: "Yingjie Lei graduated from Lanzhou University in 2020 with a Ph.D. in Biochemistry and Molecular Biology. He joined the Dang's laboratory in July 2020 and commited to the development of protein macromolecular drugs using chemical coupling modification strategy.",
+        image: img9
+    },
+    {
         title: "Postdoctor",
         name: "Wenwen Bi",
         description: "Wenwen Bi graduated from Fudan University in 2020 with a biology Ph.D., she joined the Dang's laboratory in June 2020 and mainly focused on the research of antiviral proteins, peptide drugs and vaccines.",
@@ -55,12 +61,6 @@ const Team = () => {
     },
     {
         title: "Postdoctor",
-        name: "Kuan Lu",
-        description: "Kuan Lu graduated from Shenyang Pharmaceutical University in 2018 with a Medicinal Chemistry Ph.D., he joined the Dang's laboratory in July 2020 and mainly focused on the research of antibody-drug conjugate and total synthesis of protein.",
-        image: img6
-    },
-    {
-        title: "Postdoctor",
         name: "Chuanlong Zang",
         description: "Dr. Zang received his Ph.D. degree in organic chemistry from Nankai University with Prof. Chuanzheng Zhou in 2020. He was focused on study of prodrug activation and protein chemical modification. In Feburary 2021, he joined to the Dang's laboratory as a postdoc.",
         image: img7
@@ -70,12 +70,6 @@ const Team = () => {
         name: "Yuefei Zhang",
         description: "Yuefei Zhang graduated from Zhejiang University in 2020 with a PhD degree in Pathology and Pathophysiology. He joined the Dang's laboratory in March 2021 and committed to the development of drug delivery system based on exosomes.",
         image: img8
-    },
-    {
-        title: "Postdoctor",
-        name: "Yingjie Lei",
-        description: "Yingjie Lei graduated from Lanzhou University in 2020 with a Ph.D. in Biochemistry and Molecular Biology. He joined the Dang's laboratory in July 2020 and commited to the development of protein macromolecular drugs using chemical coupling modification strategy.",
-        image: img9
     },
     {
         title: "Ph.D. student",
@@ -125,6 +119,13 @@ const Team = () => {
         name: "Mengzhun Guo",
         description: "Mengzhun Guo is a doctoral student of 2019, graduated from Lanzhou University in 2019 with a master's degree in pharmacology. She is interested in the modification of peptides and proteins at specific site.",
         image: img17
+    },
+    {
+        title: "Alumni"
+    },
+    {
+        name: "Kuan Lu",
+        description: "Postdoctor (Jul 2020 - Jul 2022); focused on the research of antibody-drug conjugate and total synthesis of protein."
     },
 
     
