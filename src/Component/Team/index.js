@@ -7,7 +7,6 @@ import img2 from "../../images/litian.png"
 import img3 from "../../images/yuge.jpeg"
 import img4 from "../../images/biwenwen.png"
 import img5 from "../../images/heqiuju.png"
-import img6 from "../../images/lukuan.png"
 import img7 from "../../images/zangchuanlong.png"
 import img8 from "../../images/yuefei.png"
 import img9 from "../../images/leiyingjie.png"
@@ -19,10 +18,11 @@ import img14 from "../../images/limengjiao.png"
 import img15 from "../../images/guilin.png"
 import img16 from "../../images/guoliang.png"
 import img17 from "../../images/guomengzhun.png"
+import img18 from "../../images/ganbeeha.jpg"
 const { Header, Content, Footer } = Layout;
 const Team = () => {
     const listData = [
-        {
+    {
         index:1,
         title: "Principal Investigator",
         name: "Bobo Dang",
@@ -70,6 +70,12 @@ const Team = () => {
         name: "Yuefei Zhang",
         description: "Yuefei Zhang graduated from Zhejiang University in 2020 with a PhD degree in Pathology and Pathophysiology. He joined the Dang's laboratory in March 2021 and committed to the development of drug delivery system based on exosomes.",
         image: img8
+    },
+    {
+        title: "Postdoctor",
+        name: "Gan Bee Ha",
+        description: "Yuefei Zhang graduated from Zhejiang University in 2020 with a PhD degree in Pathology and Pathophysiology. He joined the Dang's laboratory in March 2021 and committed to the development of drug delivery system based on exosomes.",
+        image: img18
     },
     {
         title: "Ph.D. student",
