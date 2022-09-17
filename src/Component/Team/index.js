@@ -73,8 +73,8 @@ const Team = () => {
     },
     {
         title: "Postdoctor",
-        name: "Gan Bee Ha",
-        description: "Yuefei Zhang graduated from Zhejiang University in 2020 with a PhD degree in Pathology and Pathophysiology. He joined the Dang's laboratory in March 2021 and committed to the development of drug delivery system based on exosomes.",
+        name: "Bee Ha Gan",
+        description: "Bee Ha Gan obtained her PhD in Chemical Biology at the University of Bern (Switzerland) in 2019, where her research focused on antimicrobial peptides and peptide dendrimers under the supervision of Prof. Jean-Louis Reymond. She was a postdoctoral researcher in the group of Prof. David Spring at the University of Cambridge until she joined the group of Prof. Dang. Her research focuses on novel peptide and protein drug development for various biological applications.",
         image: img18
     },
     {
