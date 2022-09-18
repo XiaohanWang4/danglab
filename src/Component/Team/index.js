@@ -20,6 +20,17 @@ import img16 from "../../images/guoliang.png"
 import img17 from "../../images/guomengzhun.png"
 import img18 from "../../images/ganbeeha.jpg"
 const { Header, Content, Footer } = Layout;
+function getImg(item ){
+     if(item.image){
+         return        <img
+         width={272}
+         alt="logo"
+         src={item.image}
+       />
+     }else{
+         return <div></div>
+     }
+}
 const Team = () => {
     const listData = [
     {
@@ -163,11 +174,7 @@ const Team = () => {
                             <div className="list-data">
                                 <br/>
                                 <div className="list-img">
-                                <img
-                                  width={272}
-                                  alt="logo"
-                                  src={item.image}
-                                />
+                                   {getImg(item)}                             
                                 </div>
                                 <div className="list-content">
                                     <p>
