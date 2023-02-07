@@ -10,10 +10,6 @@ const Resource = () => {
             url:"https://web.expasy.org/protparam/",
             },
             {
-                title: "Compute_pi",
-                url:"https://web.expasy.org/compute_pi/",
-            },
-            {
                 title: "Gene Translate",
                 url:"https://web.expasy.org/translate/"
             },
