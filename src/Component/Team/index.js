@@ -5,8 +5,6 @@ import "./index.css";
 import img1 from "../../images/dangbobo.png"
 import img2 from "../../images/litian.png"
 import img3 from "../../images/yuge.jpeg"
-import img4 from "../../images/biwenwen.png"
-import img5 from "../../images/heqiuju.png"
 import img7 from "../../images/zangchuanlong.png"
 import img8 from "../../images/yuefei.png"
 import img9 from "../../images/leiyingjie.png"
@@ -154,7 +152,6 @@ const Team = () => {
                     itemLayout="vertical"
                     size="large"
                     dataSource={listData}
-                    
                     renderItem={item => (
                         <List.Item
                             key={item.name}
@@ -173,7 +170,6 @@ const Team = () => {
                                     {item.description}
                                     </p>
                                 </div>
-
                             </div>      
                         </List.Item>
                     )}
