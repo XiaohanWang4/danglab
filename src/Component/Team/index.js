@@ -60,18 +60,6 @@ const Team = () => {
     },
     {
         title: "Postdoctor",
-        name: "Wenwen Bi",
-        description: "Wenwen Bi graduated from Fudan University in 2020 with a biology Ph.D., she joined the Dang's laboratory in June 2020 and mainly focused on the research of antiviral proteins, peptide drugs and vaccines.",
-        image: img4
-    },
-    {
-        title: "Postdoctor",
-        name: "Qiuju He",
-        description: "Qiuju He graduated from Zhejiang University in 2020 with a biology Ph.D., she joined the Dang's laboratory in July 2020 and mainly focused on the development of novel protein research tools based on high-throughput screening.",
-        image: img5
-    },
-    {
-        title: "Postdoctor",
         name: "Chuanlong Zang",
         description: "Dr. Zang received his Ph.D. degree in organic chemistry from Nankai University with Prof. Chuanzheng Zhou in 2020. He was focused on study of prodrug activation and protein chemical modification. In Feburary 2021, he joined to the Dang's laboratory as a postdoc.",
         image: img7
@@ -138,12 +126,16 @@ const Team = () => {
         image: img17
     },
     {
-        title: "Alumni"
+        title: "Alumni",
+        name: "Kuan Lu, Postdoctor (2020 - 2022) "
     },
     {
-        title: "Kuan Lu",
-        description: "Postdoctor (Jul 2020 - Jul 2022);     focused on the research of antibody-drug conjugate and total synthesis of protein."
+        name: "Qiuju He, Postdoctor (2020 - 2022) "
     },
+    {
+        name: "Wenwen Bi, Postdoctor (2020 - 2022) "
+    },
+
 
     
 
