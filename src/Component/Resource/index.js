@@ -76,13 +76,13 @@ const Resource = () => {
                     itemLayout="vertical"
                     size="large"
                     dataSource={data}
-                    
+
                     renderItem={item => (
                         <List.Item
                             key={item.title}
                         >
                             <List.Item.Meta className="resource-item-title"
-                                title={<span><strong>{item.title}</strong><a herf={item.url}>{item.url}</a></span>}
+                                title={<span><strong>{item.title}</strong><a href={item.url}>{item.url}</a></span>}
                             /> 
                         </List.Item>
                     )}
