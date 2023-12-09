@@ -7,7 +7,7 @@ const Publication = () => {
     const listData = [
     {
         title: "Copper assisted sequence-specific chemical protein conjugation at a single backbone amide. Nat Commun 14, 8063 (2023). ",
-        description: "M. Guo#, K. Zhao#, L. Guo#, R. Zhou#, Q. He, K. Lu, T. Li, D. Liu, J. Chen, J. Tang, X. Fu, J. Zhou, B. Zheng, S. Mann, Y. Zhang, J. Huang, B. Yang, T. Zhou, Y. Lei, B. Dang.",
+        description: "M. Guo#, K. Zhao#, L. Guo#, R. Zhou#, Q. He, K. Lu, T. Li, D. Liu, J. Chen, J. Tang, X. Fu, J. Zhou, B. Zheng, S. Mann, Y. Zhang, J. Huang, B. Yang, T. Zhou*, Y. Lei*, B. Dang*.",
         content: "Direct, site-specific methods of protein functionalization are highly desirable for biotechnology. However, such methods are challenging due to the difficulty of chemically differentiating a single site within a large protein. Herein, we propose “metal binding targeting” strategy and develop a Copper Assisted Sequence-specific conjugation Tag (CAST) method to achieve rapid (second order rate 8.1 M−1 s−1), site-specific protein backbone chemical modification with pinpoint accuracy. We demonstrate the versatility of CAST conjugation by preparing various on-demand modified recombinant proteins, including a homogeneous antibody-drug conjugate with high plasma stability and potent efficacy in vitro and in vivo. Thus, CAST provides an efficient and quantitative method to site-specifically attach payloads on large, native proteins."
     },
     {
