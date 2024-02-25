@@ -29,7 +29,9 @@ const Home = () => {
                         <div>
                             <div  className="carousel-item carousel-item4"></div>
                         </div> 
-                      
+                        <div>
+                            <div  className="carousel-item carousel-item5"></div>
+                        </div> 
                     </Carousel>
                     </div>
                 </div>

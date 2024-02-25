@@ -6,7 +6,7 @@ const { Header, Content, Footer } = Layout;
 const Publication = () => {
     const listData = [
     {
-        title: "An enhanced broad-spectrum peptide inhibits Omicron variants in vivo[J]. Cell Rep Med (2024). ",
+        title: "An enhanced broad-spectrum peptide inhibits Omicron variants in vivo[J]. Cell Rep Med, 5, 101418 (2024). ",
         description: "W. Bi#, K. Tang#, G. Chen#, Y. Xie, N. Polizzi, W. DeGrado, S. Yuan*, B. Dang*.",
         content: "The continual emergence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variants of concern (VOCs) poses a major challenge to vaccines and antiviral therapeutics due to their extensive evasion of immunity. Aiming to develop potent and broad-spectrum anticoronavirus inhibitors, we generated A1- (GGGGS)7-HR2m (A1L35HR2m) by introducing an angiotensin-converting enzyme 2 (ACE2)-derived peptide A1 to the N terminus of the viral HR2-derived peptide HR2m through a long flexible linker, which showed significantly improved antiviral activity. Further cholesterol (Chol) modification at the C terminus of A1L35HR2m greatly enhanced the inhibitory activities against SARS-CoV-2, SARS-CoV-2 VOCs, SARS- CoV, and Middle East respiratory syndrome coronavirus (MERS-CoV) pseudoviruses, with IC50 values ranging from 0.16 to 5.53 nM. A1L35HR2m-Chol also potently inhibits spike-protein-mediated cell-cell fusion and the replication of authentic Omicron BA.2.12.1, BA.5, and EG.5.1. Importantly, A1L35HR2m-Chol distrib- uted widely in respiratory tract tissue and had a long half-life (>10 h) in vivo. Intranasal administration of A1L35HR2m-Chol to K18-hACE2 transgenic mice potently inhibited Omicron BA.5 and EG.5.1 infection both prophylactically and therapeutically."
     },
