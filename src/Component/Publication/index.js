@@ -6,8 +6,8 @@ const { Header, Content, Footer } = Layout;
 const Publication = () => {
     const listData = [
     {
-        title: "Optimizing Solid-Phase Protein Synthesis Using CPG-2000 and a Nickel-Cleavable SNAC-tag Linker[J].Org Lett, 2025 (published). ",
-        description: "J. Chen and B. Dang*.",
+        title: "Optimizing Solid-Phase Protein Synthesis Using CPG-2000 and a Nickel-Cleavable SNAC-tag Linker[J]. Org Lett, 2025 (published). ",
+        description: "J. Han and B. Dang*.",
         content: "Solid-phase chemical ligation (SPCL) is a powerful method for simplifying protein synthesis but faces challenges with orthogonal protection strategies, suboptimal solid supports, and limited cleavable linkers. In this study, we optimized SPCL by combining low-loading controlled-pore glass (CPG-2000) with a nickel-cleavable SNAC-tag linker. This system enabled the successful assembly of five peptide fragments and the efficient synthesis of a 131-amino-acid de novo protein, achieving a 25% yield."
     },
     {
